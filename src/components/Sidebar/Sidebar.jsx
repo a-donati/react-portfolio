@@ -1,6 +1,6 @@
 import React from "react";
 import './Sidebar.css';
-import { HashRouter, Link } from 'react-dom-router';
+import { HashRouter, Link } from 'react-router-dom';
 import resume from '../../files/angela-donati-portfolio-resume.docx.pdf';
 
 const Sidebar = () => {

@@ -1,9 +1,10 @@
 import React from 'react';
-import About from './containers/About';
-import Portfolio from './containers/Portfolio';
-import Header from './components/Header';
-import Sidebar from './components/Sidebar';
-import Footer from './components/Footer';
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import About from './containers/About/About';
+import Portfolio from './containers/Portfolio/Portfolio';
+import Header from './components/Header/Header';
+import Sidebar from './components/Sidebar/Sidebar';
+import Footer from './components/Footer/Footer';
 import Contact from './containers/Contact/Contact';
 import './App.css';
 

@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+// import App from './App';
 import Main from "../../components/Main/Main";
-import './About/css';
+import './About.css';
 import circleImage from '../../images/angela.png'
 
 const About = () => {
