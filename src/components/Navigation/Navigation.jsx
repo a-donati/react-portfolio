@@ -12,10 +12,10 @@ function Navigation () {
 <>
     <Navbar bg="dark" variant="dark">
     <Container>
-    <Navbar.Brand to="/">Angela Donati</Navbar.Brand>
+    <Navbar.Brand href="/">Angela Donati</Navbar.Brand>
     <Nav className="me-auto">
-      <Nav.Link to="/Portfolio">Portfolio</Nav.Link>
-      <Nav.Link to="/contact">Contact</Nav.Link>
+      <Nav.Link href="/Portfolio">Portfolio</Nav.Link>
+      <Nav.Link href="/Contact">Contact</Nav.Link>
       <Nav.Link href={resume}>Resume</Nav.Link>
       
 

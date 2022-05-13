@@ -1,6 +1,5 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import './Contact.css';
-import Main from '../../components/Main/Main';
 
 
 
@@ -13,3 +12,14 @@ import Main from '../../components/Main/Main';
 //         console.log('submit');
 //     }
 // }
+
+export default function Contact() {
+    return (
+        <div>
+            <h1>Contact</h1>
+            <p>
+                Contact
+            </p>
+        </div>
+    );
+}
