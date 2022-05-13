@@ -1,22 +1,34 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import About from './containers/About/About';
-import Portfolio from './containers/Portfolio/Portfolio';
-import Header from './components/Header/Header';
-import Sidebar from './components/Sidebar/Sidebar';
-import Footer from './components/Footer/Footer';
-import Contact from './containers/Contact/Contact';
-import './App.css';
+import React from "react";
+import About from "./components/About/About";
+import Portfolio from "./components/Portfolio/Portfolio";
+import Navigation from './components/Navigation/Navigation';
+import "./App.css";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Sidebar />
-      <About />
-      <Footer />
-    </div>
+    <Router>
+      <Navigation />
+      <div className="container">
+        <Routes>
+          <Route
+            path="/"
+            element={<About />}
+          />
+          <Route
+            path="/portfolio"
+            element={<Portfolio />}
+          />
+        </Routes>
+      
+      </div>
+
+    </Router>
   );
 }
 
 export default App;
+
