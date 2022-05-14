@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3578fed1.css",
-    "main.js": "/static/js/main.aace1d0c.js",
-    "static/media/angela.png": "/static/media/angela.ccfd6184b64578e1fbb2.png",
+    "main.css": "/static/css/main.55bdbf07.css",
+    "main.js": "/static/js/main.09931380.js",
     "static/media/angela-donati-portfolio-resume.docx.pdf": "/static/media/angela-donati-portfolio-resume.docx.454dd36f2efd53c04d45.pdf",
     "index.html": "/index.html",
-    "main.3578fed1.css.map": "/static/css/main.3578fed1.css.map",
-    "main.aace1d0c.js.map": "/static/js/main.aace1d0c.js.map"
+    "main.55bdbf07.css.map": "/static/css/main.55bdbf07.css.map",
+    "main.09931380.js.map": "/static/js/main.09931380.js.map"
   },
   "entrypoints": [
-    "static/css/main.3578fed1.css",
-    "static/js/main.aace1d0c.js"
+    "static/css/main.55bdbf07.css",
+    "static/js/main.09931380.js"
   ]
 }

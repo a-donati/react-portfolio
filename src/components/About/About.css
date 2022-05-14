@@ -1,0 +1,24 @@
+.img-profile {
+    height: 100px;
+    width: 100px;
+}
+
+.fab,.fas {
+    color: rgb(244, 190, 244);
+}
+
+.about-title {
+    font-size: 26px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #050d18;
+  }
+
+.title {
+    font-size: 26px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #050d18;
+  }
