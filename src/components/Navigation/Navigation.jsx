@@ -2,12 +2,12 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import resume from '../../files/angela-donati-portfolio-resume.docx.pdf';
 import './Navigation.css'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 
 
 function Navigation() {
   return (
-
 
     <nav className="navbar navbar-dark bg-dark navbar-inverse d-block">
 

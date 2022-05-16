@@ -22,7 +22,7 @@ const Contact = () => {
       <div className="row">
         <div className="col-8">
           <form className="ml-1" id="contact-form" onSubmit={handleSubmit}>
-            <h3>Form:</h3>
+            <h3 className="title">Contact Form:</h3>
             <div className="form-group">
               <label htmlFor="subject-input">Subject</label>
               <input
