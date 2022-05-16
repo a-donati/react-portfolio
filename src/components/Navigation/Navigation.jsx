@@ -1,30 +1,27 @@
 import React from "react";
-import { HashRouter, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import resume from '../../files/angela-donati-portfolio-resume.docx.pdf';
-import Navbar from 'react-bootstrap/Navbar'
-import Container from 'react-bootstrap/Container'
-import Nav from 'react-bootstrap/Nav'
+import './Navigation.css'
 
-function Navigation () {
+
+
+function Navigation() {
   return (
-<>
 
-    <Navbar bg="dark" variant="dark">
-    <Container>
-    <Navbar.Brand to="/">Angela Donati</Navbar.Brand>
-    <Nav className="me-auto">
-      <Nav.Link to="/Portfolio">Portfolio</Nav.Link>
-      <Nav.Link to="/Contact">Contact</Nav.Link>
-      <Nav.Link href={resume}>Resume</Nav.Link>
-      
 
-    </Nav>
-    </Container>
-  </Navbar>
-  <br />
-  
-  </>);
-  
+    <nav className="navbar navbar-dark bg-dark navbar-inverse d-block">
+
+      <Link to="/" className="navbar-brand">Angela Donati</Link>
+      <Link to="/Portfolio" className="nav-item m-2">Portfolio</Link>
+      <Link to="/Contact" className="nav-item m-2">Contact</Link>
+      <Link to={resume} className="nav-item m-2">Resume</Link>
+
+    </nav>
+
+
+  );
+
 }
+
 
 export default Navigation
