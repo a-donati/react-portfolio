@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.326e245c.css",
+    "main.js": "/react-portfolio/static/js/main.876e5db0.js",
+    "static/media/samplereadmedemo.gif": "/react-portfolio/static/media/samplereadmedemo.122349a51b39fa86442c.gif",
+    "static/media/e-commerce-demo.gif": "/react-portfolio/static/media/e-commerce-demo.13a7347dc8f4786095a7.gif",
+    "static/media/updated-screen-shot.png": "/react-portfolio/static/media/updated-screen-shot.05d371c56ef2dca51e49.png",
+    "static/media/travel-app-screenshot.png": "/react-portfolio/static/media/travel-app-screenshot.6435d911a4296435e2de.png",
+    "static/media/portfolio-screenshot.png": "/react-portfolio/static/media/portfolio-screenshot.d7550d2bcfcd8fe2e43c.png",
+    "static/media/weather-app-screenshot.png": "/react-portfolio/static/media/weather-app-screenshot.400719c1e90b05ee727d.png",
+    "static/media/team-profile-generator-screenshot.png": "/react-portfolio/static/media/team-profile-generator-screenshot.963c57c6014e280d52ba.png",
+    "static/media/Screen Shot 2022-04-27 at 1.16.14 PM.png": "/react-portfolio/static/media/Screen Shot 2022-04-27 at 1.16.14 PM.ccfd6184b64578e1fbb2.png",
+    "static/media/angela.png": "/react-portfolio/static/media/angela.ccfd6184b64578e1fbb2.png",
+    "static/media/employee-tracker.png": "/react-portfolio/static/media/employee-tracker.0f7a35c2b5590f4f1104.png",
+    "static/media/angela-donati-portfolio-resume.docx.pdf": "/react-portfolio/static/media/angela-donati-portfolio-resume.docx.454dd36f2efd53c04d45.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.326e245c.css.map": "/react-portfolio/static/css/main.326e245c.css.map",
+    "main.876e5db0.js.map": "/react-portfolio/static/js/main.876e5db0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.326e245c.css",
+    "static/js/main.876e5db0.js"
+  ]
+}
