@@ -11,7 +11,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <Router >
+    <Router>
       <Navigation />
       <div className="container">
         <Routes>
@@ -28,7 +28,7 @@ function App() {
             element={<Contact />}
           />
         </Routes>
-      
+
       </div>
     </Router>
   );
