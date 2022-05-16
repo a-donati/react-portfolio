@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.3e8ae7f4.css",
-    "main.js": "/react-portfolio/static/js/main.d87ac4fa.js",
+    "main.css": "/react-portfolio/static/css/main.c8093865.css",
+    "main.js": "/react-portfolio/static/js/main.c68b60c7.js",
     "static/media/samplereadmedemo.gif": "/react-portfolio/static/media/samplereadmedemo.122349a51b39fa86442c.gif",
     "static/media/e-commerce-demo.gif": "/react-portfolio/static/media/e-commerce-demo.13a7347dc8f4786095a7.gif",
     "static/media/updated-screen-shot.png": "/react-portfolio/static/media/updated-screen-shot.05d371c56ef2dca51e49.png",
@@ -14,11 +14,11 @@
     "static/media/employee-tracker.png": "/react-portfolio/static/media/employee-tracker.0f7a35c2b5590f4f1104.png",
     "static/media/angela-donati-portfolio-resume.docx.pdf": "/react-portfolio/static/media/angela-donati-portfolio-resume.docx.454dd36f2efd53c04d45.pdf",
     "index.html": "/react-portfolio/index.html",
-    "main.3e8ae7f4.css.map": "/react-portfolio/static/css/main.3e8ae7f4.css.map",
-    "main.d87ac4fa.js.map": "/react-portfolio/static/js/main.d87ac4fa.js.map"
+    "main.c8093865.css.map": "/react-portfolio/static/css/main.c8093865.css.map",
+    "main.c68b60c7.js.map": "/react-portfolio/static/js/main.c68b60c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e8ae7f4.css",
-    "static/js/main.d87ac4fa.js"
+    "static/css/main.c8093865.css",
+    "static/js/main.c68b60c7.js"
   ]
 }
