@@ -4,14 +4,14 @@ import Portfolio from "./components/Portfolio/Portfolio";
 import Contact from "./components/Contact/Contact";
 import Navigation from './components/Navigation/Navigation';
 import "./App.css";
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
 function App() {
   return (
-    <Router>
+    <Router >
       <Navigation />
       <div className="container">
         <Routes>
