@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.c8093865.css",
-    "main.js": "/react-portfolio/static/js/main.ba7d261b.js",
+    "main.js": "/react-portfolio/static/js/main.922e8a82.js",
     "static/media/samplereadmedemo.gif": "/react-portfolio/static/media/samplereadmedemo.122349a51b39fa86442c.gif",
     "static/media/e-commerce-demo.gif": "/react-portfolio/static/media/e-commerce-demo.13a7347dc8f4786095a7.gif",
     "static/media/updated-screen-shot.png": "/react-portfolio/static/media/updated-screen-shot.05d371c56ef2dca51e49.png",
@@ -15,10 +15,10 @@
     "static/media/angela-donati-portfolio-resume.docx.pdf": "/react-portfolio/static/media/angela-donati-portfolio-resume.docx.454dd36f2efd53c04d45.pdf",
     "index.html": "/react-portfolio/index.html",
     "main.c8093865.css.map": "/react-portfolio/static/css/main.c8093865.css.map",
-    "main.ba7d261b.js.map": "/react-portfolio/static/js/main.ba7d261b.js.map"
+    "main.922e8a82.js.map": "/react-portfolio/static/js/main.922e8a82.js.map"
   },
   "entrypoints": [
     "static/css/main.c8093865.css",
-    "static/js/main.ba7d261b.js"
+    "static/js/main.922e8a82.js"
   ]
 }
