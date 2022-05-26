@@ -7,11 +7,11 @@ Updated personal portfolio page that has been recreated using React.js. The depl
 
 ## Usage
 
-The page has a nav bar at the top that contains links to my portfolio, a contact page, and my resume. 
+The page has a nav bar at the top that contains links to my portfolio, a contact page, and my resume. Clicking the links will render new page.
 
 [Click here for my deployed React portfolio page](https://a-donati.github.io/react-portfolio/)
 
-![Angela Donati portfolio website includes navigation header and sections for About, Resume, Projects, Skills, and links for social media.]()
+![Angela Donati portfolio website includes navigation header and sections for About, Resume, Projects, Skills, and links for social media.](./src/images/react-portfolio.png)
 
 ## Questions
 
